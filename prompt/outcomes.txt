@@ -18,6 +18,17 @@ how many hours did i spend on tasks
 {"prompt":"I making this entry at 7:16AM on 6/17. I got up at 5am and followed my morning routine. i drank water, did stretching and prayer. I should not have my phone with me during my brushing and morning routine, slowed me down and spent an extra 20mins. I started studying 6AM to work on OpenAI project. I got called my michelle at 6:30 and spent 40mins with my wife and kids cuddling. I can make to continue my study on OPenAI at 7:15AM \n\n###\n\n",
  "completion":" 5am\morning routine\drank water\stretching\prayer\phone\20mins\studying\6AM\OpenAI project\Michelle\6:30\40mins\wife and kid cuddling\7:15AM END"}
 
+ {"prompt":"its 6:39.  I got up at 5:45am and followed my morning routine. i drank water, did stretching and prayer. I didnt check anything on phone, that's a win. started studying 6:35AM to work on OpenAI project \n\n###\n\n",
+ "completion":" 5:45am\morning routine\drank water\stretching\prayer\win\studying\6:35AM\OpenAI project END"}
+
+ {"prompt":"Its 8:30. studied till 7:30 and then spent time with michelle and kids, we prayed together and did bath. feeling awesome \n\n###\n\n",
+ "completion":" 8:30am\studied\michelle and kids\feeling END"}
+
+
+{"prompt":"Its 11:00. couple of hours of not so productive time. watched movies. reminder to call capentry tomorrow at 9:30 and TLC at 9:45. follow up on roll deck and deck for maura. Stay focussed for the rest of the day. \n\n###\n\n",
+ "completion":" 11:00\not so productive\movies\reminder\follow up END"}
+
+
 {"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
 
 {"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}

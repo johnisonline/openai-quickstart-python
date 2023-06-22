@@ -16,3 +16,8 @@ build/
 .DS_STORE
 
 .env
+
+.csv
+
+.txt
+
