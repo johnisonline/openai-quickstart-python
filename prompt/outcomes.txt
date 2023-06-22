@@ -1,0 +1,35 @@
+#outcomes
+
+Build out a list of to do based on yesterdays notes?
+What are my follow ups?
+show me the tasks I completed ?
+how many hours did i spend on tasks 
+
+
+{"prompt":"Subject: Update my address\nFrom:Joe Doe\nTo:support@ourcompany.com\nDate:2021-06-03\nContent:Hi,\nI would like to update my billing address to match my delivery address.\n\nPlease let me know once done.\n\nThanks,\nJoe\n\n###\n\n", "completion":" 4"}
+
+{"prompt":"Subject: <email_subject>\nFrom:<customer_name>\nDate:<date>\nContent:<email_body>\n\n###\n\n", "completion":" <numerical_category>"}
+
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
+
+{"prompt":"Portugal will be removed from the UK's green travel list from Tuesday, amid rising coronavirus cases and concern over a \"Nepal mutation of the so-called Indian variant\". It will join the amber list, meaning holidaymakers should not visit and returnees must isolate for 10 days...\n\n###\n\n", "completion":" Portugal\nUK\nNepal mutation\nIndian variant END"}
+
+{"prompt":"I making this entry at 7:16AM on 6/17. I got up at 5am and followed my morning routine. i drank water, did stretching and prayer. I should not have my phone with me during my brushing and morning routine, slowed me down and spent an extra 20mins. I started studying 6AM to work on OpenAI project. I got called my michelle at 6:30 and spent 40mins with my wife and kids cuddling. I can make to continue my study on OPenAI at 7:15AM \n\n###\n\n",
+ "completion":" 5am\morning routine\drank water\stretching\prayer\phone\20mins\studying\6AM\OpenAI project\Michelle\6:30\40mins\wife and kid cuddling\7:15AM END"}
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
+
+{"prompt":"<any text, for example news article>\n\n###\n\n", "completion":" <list of entities, separated by a newline> END"}
