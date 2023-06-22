@@ -1,6 +1,6 @@
 # OpenAI API Quickstart - Python example app
 
-This is an example pet name generator app used in the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart). It uses the [Flask](https://flask.palletsprojects.com/en/2.0.x/) web framework. Check out the tutorial or follow the instructions below to get set up.
+This is an example Note analytics app. 
 
 ## Setup
 
@@ -41,4 +41,4 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
    $ flask run
    ```
 
-You should now be able to access the app at [http://localhost:5000](http://localhost:5000)! For the full context behind this example app, check out the [tutorial](https://beta.openai.com/docs/quickstart).
+You should now be able to access the app at [http://localhost:5000](http://localhost:5000)!
